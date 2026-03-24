@@ -1,5 +1,5 @@
 # airflow_project
-This project showcases a local airflow setup with mongo databases. The pipeline starts by loading a csv files, cleans it and then load the dataset into mongodb database.
+This project showcases a local airflow setup with mongo databases. The pipeline starts by loading a csv file, cleans it and then load the dataset into mongodb database.
 
 ## Prerequisites
 .env file containing the following: 
