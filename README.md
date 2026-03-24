@@ -18,11 +18,11 @@ This project showcases a local airflow setup with mongo databases. The pipeline 
 ## Cleaned Dataset In MongoDb Compass
 ![Mongodb Cleaned Dataset](assets/mongodb_compass_intial.png)
 
-## Query 1
+## Top 5 Frequently Occuring Commnets
 ![First Query](assets/top5_frequently_occuring_comments.png)
 
-## Query 2
+## Content Less Than 5 Characters
 ![SecondQuery](assets/content_less_than_5_characters.png)
 
-## Query 3
+## Average Rating Each Day
 ![Third Query](assets/avg_rating_each_day.png)
